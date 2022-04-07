@@ -1,5 +1,6 @@
 # Learning Git in VSCode
 
-Second Change!
+Now I pushed with no issue!
 
-Hello
+
+I have new changes today Saturday.
